@@ -7,5 +7,7 @@ if user == "a":
     print(a)
 elif user == 'b':
     print(b)
-else:
+elif user == 'c':
     print(c)
+else:
+    print('chooopaaa')
